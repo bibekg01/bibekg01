@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @bibekg01
-- 👀 I’m interested in full stack development using MERN
-- 🌱 I’m currently learning MERN stack development
+Hi👋, I’m Bibek Gauli.
+
+I’m a Full Stack Developer using MERN Stack.
+
 
 
 <!---
